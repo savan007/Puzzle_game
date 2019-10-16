@@ -1,0 +1,36 @@
+<resources>
+
+    <string name="app_name">TimePass</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_tictac">tictac</string>
+    <string name="first_human">you go first</string>
+    <string name="turn_human">your turn</string>
+    <string name="turn_computer">Android\'s turn</string>
+    <string name="result_tie">tie</string>
+    <string name="result_human_win">you win!</string>
+    <string name="result_android_win">computer win!</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="info">Info</string>
+    <string name="human">human:  </string>
+    <string name="tie">Ties:  </string>
+    <string name="android">android:  </string>
+    <string name="contact_heading">contect Info:  </string>
+    <string name="contect_info"><b>NAME:</b>it\'s Me</string>
+    <string name="about_heading">About</string>
+    <string name="hello">Hello world, TictacActivity</string>
+    <string name="about">About</string>
+    <string name="newGame_lable">Continue</string>
+    <string name="exitGame_lable">Exit to lobby</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_activity_about">About</string>
+
+</resources>
